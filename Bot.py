@@ -12,9 +12,9 @@ from aiogram.types import (
 # НАСТРОЙКИ
 # =========================
 
-TOKEN = "ВСТАВЬ_СЮДА_НОВЫЙ_ТОКЕН"
+TOKEN = "9180439524:AAGI2Em0BNP3nA2V5UvFMKv89pbfc8lnTMI"
 
-WEB_APP_URL = "https://ТВОЙ_САЙТ.com"
+WEB_APP_URL = "https://brainrotbro.kitijol334.workers.dev/"
 
 # =========================
 # СОЗДАНИЕ БОТА
