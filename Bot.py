@@ -14,7 +14,7 @@ from aiogram.types import (
 
 TOKEN = "9180439524:AAGI2Em0BNP3nA2V5UvFMKv89pbfc8lnTMI"
 
-WEB_APP_URL = "https://brainrotbro.kitijol334.workers.dev/"
+WEB_APP_URL = "https://brainrotbro.kitijol334.workers.dev"
 
 # =========================
 # СОЗДАНИЕ БОТА
